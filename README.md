@@ -6,10 +6,10 @@ Dashboard financiero de análisis de resultados construido completamente en Powe
 
 ## 🖼️ Vista previa
 
-![Estado de Resultados](images/Estado%20de%20Resultados.png)
-![Margen YTD por Linea y Producto](images/Margen%20YTD%20por%20linea%20y%20producto.png)
-![Margen por Cliente](images/Margen%20por%20cliente.png)
-![Análisis por Área Solicitante](images/Analisis%20por%20area%20solicitante.png)
+![Estado de Resultados](Estado%20de%20Resultados.png)
+![Margen YTD por Linea y Producto](Margen%20YTD%20por%20linea%20y%20producto.png)
+![Margen por Cliente](Margen%20por%20cliente.png)
+![Análisis por Área Solicitante](Analisis%20por%20area%20solicitante.png)
 
 ---
 
